@@ -1,0 +1,16 @@
+{
+    "name": "notion-to-markdown-sample",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "@notionhq/client": "2.2.15",
+        "dotenv": "16.4.7",
+        "notion-to-md": "3.1.4"
+    },
+    "author": "",
+    "license": "MIT"
+}
